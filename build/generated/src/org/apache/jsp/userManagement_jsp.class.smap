@@ -1,0 +1,14 @@
+SMAP
+userManagement_jsp.java
+JSP
+*S JSP
+*F
++ 0 userManagement.jsp
+userManagement.jsp
++ 1 navigationBar.jsp
+navigationBar.jsp
+*L
+5,27:49
+1#1,88:76
+31#0,64:163
+*E
